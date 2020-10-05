@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
 title: Shiran Zhang
-description: Shiran Zhang's Personal Webpage
+description: I'm a senior undergraduate student studying Computer Science in Peking University.
 logo: /assets/img/me.jpg
 google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
