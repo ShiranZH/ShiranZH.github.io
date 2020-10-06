@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta name="google-site-verification" content="BVnwZB1jp20-OBY712I-iN1Qf7yQcKUSw8HU8rmTZUM" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,6 +21,10 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+
+        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}"><img width="20" height="20" src="./assets/img/github.svg"> <strong>Github</strong></a></p>
