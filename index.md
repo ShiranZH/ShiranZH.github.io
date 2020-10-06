@@ -38,7 +38,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ### Computer Science
 
 {% for doc in site.docs.cs %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poem/{{ doc.title }}.md)\]
+{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.md)\]
 
 2020-10 阅读笔记：Prometheus监控实战 \[[NOTE](/docs/cs/阅读笔记：Prometheus监控实战.md)\]
 
@@ -48,11 +48,8 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Poetry & Prose
 
-{% for doc in site.docs.poems %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poem/{{ doc.date }}-{{ doc.title }}.md)\]
-
 2020-08 雨 \[[LINK](/docs/poem/2020-08-雨.md)\]
 
-2020-03 暗物 \[[LINK](/docs/poem/2020-03-26暗物.md)\]
+2020-03 暗物 \[[LINK](/docs/poem/2020-03-26-暗物.md)\]
 
-2019-09 简单快乐 \[[LINK](/docs/poem/2019-09-14简单快乐.md)\]
+2019-09 简单快乐 \[[LINK](/docs/poem/2019-09-14-简单快乐.md)\]
