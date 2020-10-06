@@ -5,7 +5,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ## Education
 
 <div align="left">
-    <strong>Peking University, Beijing, China (Sep. 2017 - Jun. 2021)</strong>
+    <strong><a href="http://english.pku.edu.cn/">Peking University</a>, Beijing, China (Sep. 2017 - Jun. 2021)</strong>
     <ul>
         <li>Bachelor of Science (B.S.), Computer Science</li>
         <li><a href="https://cs.pku.edu.cn/English/Home.htm">Department of Computer Science and Technology</a></li>
@@ -26,7 +26,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <strong>Alibaba Cloud Computing Company, Hangzhou, China (Jun. 2020 - Sep. 2020)</strong>
-    Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)
+    <br />Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)
     <ul>
         <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps Private Cloud</li>
         <li>Integrated monitoring capability in pipeline construction on DevOps Public Cloud</li>
@@ -43,4 +43,4 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Poetry & Prose
 
-2020-08 雨\[[LINK](./docs/Poem/雨.md)\]
+2020-08 雨 \[[LINK](./docs/Poem/雨.md)\]
