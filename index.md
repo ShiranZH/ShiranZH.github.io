@@ -37,6 +37,9 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Computer Science
 
+{% for doc in site.docs.cs %}
+{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.md)\]
+
 2020-10 阅读笔记：Prometheus监控实战 \[[NOTE](/docs/cs/阅读笔记：Prometheus监控实战.md)\]
 
 ### Philosophy
@@ -44,6 +47,9 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 2019-11 民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例 \[[PDF](/docs/phil/民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例.pdf)\]
 
 ### Poetry & Prose
+
+{% for doc in site.docs.poems %}
+{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poem/{{ doc.date }}-{{ doc.title }}.md)\]
 
 2020-08 雨 \[[LINK](/docs/poem/2020-08-雨.md)\]
 
