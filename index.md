@@ -37,11 +37,11 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Computer Science
 
-2020-10 阅读笔记：Prometheus监控实战 \[[NOTE](./docs/cs/阅读笔记：Prometheus监控实战.md)\]
+2020-10 阅读笔记：Prometheus监控实战 \[[NOTE](/docs/cs/Monitoring_with_Prometheus.md.md)\]
 
 ### Philosophy
 
-2019-11 民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例 \[[PDF](./docs/phil/民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例.pdf)\]
+2019-11 民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例 \[[PDF](/docs/phil/Folk_Belief’s_Evolution_and_the_Diversity_of_Gods.pdf.pdf)\]
 
 ### Poetry & Prose
 
