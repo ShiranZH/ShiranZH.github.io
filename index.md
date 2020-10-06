@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a senior undergraduate student studying Computer Science in [Peking University](https://www.pku.edu.cn/) (PKU). I'm expected to graduate in 2021.
+I'm a senior undergraduate student studying Computer Science at [Peking University](https://www.pku.edu.cn/) (PKU). I'm expected to graduate in 2021.
 
 ## Archives
 

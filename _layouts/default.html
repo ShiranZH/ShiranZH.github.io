@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{{ site.title | default: site.github.repository_name }}</title>
-
+    
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -24,10 +25,8 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <p class="view"><a href="{{ site.github.owner_url }}"><img width="20" height="20" src="./assets/img/github.svg"> <strong>Github</strong></a></p>
-        <p class="view"><a href="mailto:zhangsr@pku.edu.cn"><img width="20" height="20" src="./assets/img/email.svg"> <strong>Mail</strong></a></p>
-        <p class="view"><a href="./docs/cv.pdf"><img width="20" height="20" src="./assets/img/cv.svg"> <strong>CV</strong></a></p>
+
+        <p class="view"><a href="{{ site.github.owner_url }}"><img width="20" height="20" src="./assets/img/github.svg"> <strong>GitHub</strong></a> <a href="mailto:zhangsr@pku.edu.cn"><img width="20" height="20" src="./assets/img/email.svg"> <strong>Mail</strong></a> <a href="./docs/cv.pdf"><img width="20" height="20" src="./assets/img/cv.svg"> <strong>CV</strong></a></p>
 
         {% if site.github.is_project_page %}
         {% endif %}
