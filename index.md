@@ -6,18 +6,12 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <strong>Peking University, Beijing, China (Sep. 2017 - Jun. 2021)</strong>
-    <a href="https://www.pku.edu.cn/" target="_blank" rel="external">
-        <img border="0" src="./assets/img/pku.png" align="right" width="70" height="70">
-    </a> 
-    <ul><li>Bachelor of Science (B.S.), Computer Science</li></ul>      
+    <ul><li>B.S., Department of Computer Science and Technology, School of Electronics Engineering and Computer Science</li></ul>      
 </div>
 
 <div align="left">
-    <strong>Peking University, Beijing, China (Sep. 2019 - Jun. 2021)</strong>
-    <a href="https://www.pku.edu.cn/" target="_blank" rel="external">
-        <img border="0" src="./assets/img/pku.png" align="right" width="70" height="70">
-    </a> 
-    <ul><li>Bachelor of Philosophy (B.P.), Dual Major</li></ul>      
+    <strong>Peking University (Second Major), Beijing, China (Sep. 2019 - Jun. 2021)</strong>
+    <ul><li>B.P., Department of Philosophy and Religious Studies</li></ul>      
 </div>
 
 
@@ -25,11 +19,10 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <strong>Alibaba Cloud Computing Company, Hangzhou, China (Jun. 2020 - Sep. 2020)</strong>
-    <img border="0" src="./assets/img/aliyun.png" align="right" width="120" height="30">
     <ul>
-        <li>Position: Software Development Engineer Intern, Enterprise Mobile Application Studio</li>
-        <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps proprietary cloud</li>
-        <li>Integrated monitoring capability in pipeline construction on DevOps public cloud</li>
+        <li>Position: Software Development Engineer Intern in Enterprise Mobile Application Studio (EMAS)</li>
+        <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps Private Cloud</li>
+        <li>Integrated monitoring capability in pipeline construction on DevOps Public Cloud</li>
     </ul>      
 </div>
 
