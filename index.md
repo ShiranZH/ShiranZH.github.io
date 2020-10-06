@@ -5,7 +5,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ## Education
 
 <div align="left">
-    <strong><a href="http://english.pku.edu.cn/">Peking University</a>, Beijing, China (Sep. 2017 - Jun. 2021)</strong>
+    <strong>Peking University, Beijing, China (Sep. 2017 - Jun. 2021)</strong>
     <ul>
         <li>Bachelor of Science (B.S.), Computer Science</li>
         <li><a href="https://cs.pku.edu.cn/English/Home.htm">Department of Computer Science and Technology</a></li>
@@ -14,7 +14,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 </div>
 
 <div align="left">
-    <strong><a href="http://english.pku.edu.cn/">Peking University</a> (Second Major), Beijing, China (Sep. 2019 - Jun. 2021)</strong>
+    <strong>Peking University (Second Major), Beijing, China (Sep. 2019 - Jun. 2021)</strong>
     <ul>
         <li>Bachelor of Philosophy (B.P.), Philosophy</li>
         <li><a href="https://en.phil.pku.edu.cn/">Department of Philosophy and Religious Studies</a></li>
@@ -26,19 +26,10 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <strong>Alibaba Cloud Computing Company, Hangzhou, China (Jun. 2020 - Sep. 2020)</strong>
-    <p>Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)</p>
+    Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)
     <ul>
         <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps Private Cloud</li>
         <li>Integrated monitoring capability in pipeline construction on DevOps Public Cloud</li>
-    </ul>
-</div>
-
-<div align="left">
-    <strong>Software Engineering Institute, Peking University, Beijing, China (Feb. 2019 - July. 2019)</strong>
-    <p>Research Assistant Intern, Programming Language and Development Environment (PLDE)</p>
-    <ul>
-        <li>Participated in an empirical study on the characteristics of patches between GitHub forks</li>
-        <li>Designed a framework of an automatic tool with parts of patch locator, specification checker and patch modifier</li>
     </ul>
 </div>
 
@@ -52,4 +43,4 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Poetry & Prose
 
-2020-08 [雨](./docs/Poem/雨.md)
+2020-08 雨\[[LINK](./docs/Poem/雨.md)\]
