@@ -38,7 +38,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ### Computer Science
 
 {% for doc in site.docs.cs %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.md)\]
+{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.html)\]
 
 {% endfor %}
 
@@ -46,17 +46,17 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Philosophy
 
-2019-11 民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例 \[[PDF](/docs/phil/民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例.pdf)\]
+2019-11 民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例 \[[PDF](./docs/phil/民间信仰的流变与神灵的多元性——以金泽镇诸神信仰为例.pdf)\]
 
 ### Poetry & Prose
 
 {% for doc in site.docs.poems %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poem/{{ doc.date }}-{{ doc.title }}.md)\]
+{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poems/{{ doc.date }}-{{ doc.title }}.html)\]
 
 {% endfor %}
 
-2020-08 雨 \[[LINK](/docs/poem/2020-08-雨.md)\]
+2020-08 雨 \[[LINK](/docs/poems/2020-08-雨.md)\]
 
-2020-03 暗物 \[[LINK](/docs/poem/2020-03-26-暗物.md)\]
+2020-03 暗物 \[[LINK](/docs/poems/2020-03-26-暗物.md)\]
 
-2019-09 简单快乐 \[[LINK](/docs/poem/2019-09-14-简单快乐.md)\]
+2019-09 简单快乐 \[[LINK](/docs/poems/2019-09-14-简单快乐.md)\]
