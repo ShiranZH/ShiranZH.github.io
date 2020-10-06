@@ -38,7 +38,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ### Computer Science
 
 {% for doc in site.docs.cs %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.html)\]
+{{ doc.date | date:"%Y.%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.html)\]
 
 {% endfor %}
 
@@ -51,7 +51,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ### Poetry & Prose
 
 {% for doc in site.docs.poems %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/poems/{{ doc.date }}-{{ doc.title }}.html)\]
+{{ doc.date | date:"%Y.%m"}} {{doc.title}} \[[LINK](/docs/poems/{{ doc.date }}-{{ doc.title }}.html)\]
 
 {% endfor %}
 
