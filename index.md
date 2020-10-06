@@ -37,9 +37,6 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 ### Computer Science
 
-{% for doc in site.docs.cs %}
-{{ doc.date | date:"%Y-%m"}} {{doc.title}} \[[LINK](/docs/cs/{{ doc.title }}.md)\]
-
 2020-10 阅读笔记：Prometheus监控实战 \[[NOTE](/docs/cs/阅读笔记：Prometheus监控实战.md)\]
 
 ### Philosophy
