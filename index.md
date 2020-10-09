@@ -47,6 +47,8 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 2020-08 雨 \[[LINK](/docs/poems/2020-08-雨.md)\]
 
+2020-07 夜话密合 \[[LINK](/docs/poems/2020-07-19-夜话密合.md)\]
+
 2020-03 暗物 \[[LINK](/docs/poems/2020-03-26-暗物.md)\]
 
 2019-09 简单快乐 \[[LINK](/docs/poems/2019-09-14-简单快乐.md)\]
