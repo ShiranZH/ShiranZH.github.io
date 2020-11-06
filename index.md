@@ -36,13 +36,10 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ## Hobbies
 
 <div align="left">
-    <strong>President of May 4th Literature Society, Peking University (Sep. 2020 - present)</strong>
-    <br />
-</div>
-
-<div align="left">
-    <strong>Captain of Women’s Basketball Team of EECS, PekingUniversity (Sep. 2018 - Aug. 2019)</strong>
-    <br />
+    <ul>
+        <li>President of May 4th Literature Society, Peking University (Sep. 2020 - present)</li>
+        <li>Captain of Women’s Basketball Team of EECS, PekingUniversity (Sep. 2018 - Aug. 2019)</li>
+    </ul>
 </div>
 
 # Archives
