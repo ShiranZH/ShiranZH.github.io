@@ -9,7 +9,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
     <ul>
         <li>Bachelor of Science (B.S.), Computer Science</li>
         <li><a href="https://cs.pku.edu.cn/English/Home.htm">Department of Computer Science and Technology</a></li>
-        <li><a href="http://eecs.pku.edu.cn/Home/HOME.htm">School of Electronics Engineering and Computer Science</a></li>
+        <li><a href="http://eecs.pku.edu.cn/Home/HOME.htm">School of Electronics Engineering and Computer Science</a> (EECS)</li>
     </ul>
 </div>
 
@@ -38,7 +38,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 <div align="left">
     <ul>
         <li>President of May 4th Literature Society, Peking University (Sep. 2020 - present)</li>
-        <li>Captain of Women’s Basketball Team of EECS, PekingUniversity (Sep. 2018 - Aug. 2019)</li>
+        <li>Captain of Women’s Basketball Team of EECS, PKU (Sep. 2018 - Aug. 2019)</li>
     </ul>
 </div>
 
