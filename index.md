@@ -34,7 +34,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 </div>
 
 <div align="left">
-    <strong>Alibaba Cloud Computing Company, Hangzhou, Zhejiang, China (Jul. 2020 - Sep. 2020)</strong>
+    <strong>Alibaba Cloud Computing Company, Hangzhou, China (Jul. 2020 - Sep. 2020)</strong>
     <br />Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)
     <ul>
         <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps Private Cloud</li>
