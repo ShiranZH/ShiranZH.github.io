@@ -25,7 +25,16 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 ## Experience
 
 <div align="left">
-    <strong>Alibaba Cloud Computing Company, Hangzhou, China (Jul. 2020 - Sep. 2020)</strong>
+    <strong>Software Engineering Institute, Peking University, Beijing, China (Feb. 2019 - present)</strong>
+    <br />Research Intern, Program Languages and Development Environment (PLDE)
+    <ul>
+        <li>Automated Patched Porting across Forked Projects</li>
+        <li>Inferring Program Transformations From Singular Examples via Big Code</li>
+    </ul>
+</div>
+
+<div align="left">
+    <strong>Alibaba Cloud Computing Company, Hangzhou, Zhejiang, China (Jul. 2020 - Sep. 2020)</strong>
     <br />Software Development Engineer Intern, Enterprise Mobile Application Studio (EMAS)
     <ul>
         <li>Removed <i>Object Storage Service</i> during scaffold generation on DevOps Private Cloud</li>
