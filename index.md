@@ -26,7 +26,7 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <strong>Software Engineering Institute, Peking University, Beijing, China (Feb. 2019 - present)</strong>
-    <br />Research Intern, Program Languages and Development Environment (PLDE)
+    <br />Research Intern, Program Languages Lab
     <ul>
         <li>Automated Patched Porting across Forked Projects</li>
         <li>Inferring Program Transformations From Singular Examples via Big Code</li>
@@ -46,8 +46,10 @@ I'm Shiran Zhang (张石然 in Chinese), currently a senior undergraduate studen
 
 <div align="left">
     <ul>
+        <li>Member of University Curling Team (Feb. 2021 - present)</li>
         <li>President of May 4th Literature Society, Peking University (Sep. 2020 - present)</li>
-        <li>Captain of Women’s Basketball Team of EECS, PKU (Sep. 2018 - Aug. 2019)</li>
+        <li>Member of University Women’s Basketball Team (Sep. 2018 - present)</li>
+        <li>Captain of School Women’s Basketball Team (Sep. 2018 - Aug. 2019)</li>
     </ul>
 </div>
 
